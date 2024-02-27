@@ -1,0 +1,106 @@
+[
+ {
+   "FIELD1": 1,
+   "Type": "CapEx",
+   "Spending": 7970400,
+   "Group": "Solar",
+   "pct": "52.0451339915374",
+   "total": 15314400
+ },
+ {
+   "FIELD1": 2,
+   "Type": "Savings",
+   "Spending": 508239.79,
+   "Group": "Solar",
+   "pct": "51.507482259433",
+   "total": 986730.02
+ },
+ {
+   "FIELD1": 3,
+   "Type": "Generation",
+   "Spending": 6735908,
+   "Group": "Solar",
+   "pct": "63.0826562656281",
+   "total": 10677908
+ },
+ {
+   "FIELD1": 4,
+   "Type": "Demand Reduction",
+   "Spending": 0,
+   "Group": "Solar",
+   "pct": "0",
+   "total": 2430
+ },
+ {
+   "FIELD1": 5,
+   "Type": "CO2",
+   "Spending": 4486481.54,
+   "Group": "Solar",
+   "pct": "71.0959366542407",
+   "total": 6310461.26
+ },
+ {
+   "FIELD1": 6,
+   "Type": "CapEx",
+   "Spending": 5184000,
+   "Group": "Storage",
+   "pct": "33.8504936530324",
+   "total": 15314400
+ },
+ {
+   "FIELD1": 7,
+   "Type": "Savings",
+   "Spending": 202037.4,
+   "Group": "Storage",
+   "pct": "20.4754487960141",
+   "total": 986730.02
+ },
+ {
+   "FIELD1": 8,
+   "Type": "Demand Reduction",
+   "Spending": 1980,
+   "Group": "Storage",
+   "pct": "81.4814814814815",
+   "total": 2430
+ },
+ {
+   "FIELD1": 9,
+   "Type": "CapEx",
+   "Spending": 2160000,
+   "Group": "CHP",
+   "pct": "14.1043723554302",
+   "total": 15314400
+ },
+ {
+   "FIELD1": 10,
+   "Type": "Savings",
+   "Spending": 276452.83,
+   "Group": "CHP",
+   "pct": "28.0170689445528",
+   "total": 986730.02
+ },
+ {
+   "FIELD1": 11,
+   "Type": "Generation",
+   "Spending": 3942000,
+   "Group": "CHP",
+   "pct": "36.9173437343719",
+   "total": 10677908
+ },
+ {
+   "FIELD1": 12,
+   "Type": "Demand Reduction",
+   "Spending": 450,
+   "Group": "CHP",
+   "pct": "18.5185185185185",
+   "total": 2430
+ },
+ {
+   "FIELD1": 13,
+   "Type": "CO2",
+   "Spending": 1823979.72,
+   "Group": "CHP",
+   "pct": "28.9040633457593",
+   "total": 6310461.26
+ }
+]
